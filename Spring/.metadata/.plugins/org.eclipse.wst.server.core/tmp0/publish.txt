@@ -1,0 +1,3 @@
+#Tomcat publish data
+#Wed Nov 25 09:05:06 IST 2015
+org.eclipse.jst.jee.server\:TestGithubProject=E\:\\Java\\spring-tool-suite-3.7.0.RELEASE-e4.5-win32\\sts-bundle\\pivotal-tc-server-developer-3.1.1.RELEASE\\base-instance\\wtpwebapps\\TestGithubProject

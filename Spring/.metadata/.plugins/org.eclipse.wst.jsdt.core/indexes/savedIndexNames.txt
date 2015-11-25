@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+C:\Users\LIPUN\Desktop\Git\Learning\Spring\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2543556081.index
+1916052093.index
+1571513390.index
+3716099756.index
+1618636527.index
+3955850659.index
